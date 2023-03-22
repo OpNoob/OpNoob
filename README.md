@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonny
-- 👀 I’m interested in Computer Vision, Data analysis, Using AI for Games.
+- 👀 I’m interested in Computer Vision, Data analysis, Solving Games with AI.
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jonattard1@gmail.com
